@@ -1,0 +1,20 @@
+{
+  "name": "native-module-sample",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "windows": "react-native run-windows"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2",
+    "react-native-windows": "^0.63.0-0"
+  },
+  "devDependencies": {
+    "metro-config": "^0.66.2",
+    "react": "17.0.2",
+    "react-native": "0.68.0",
+    "react-native-windows": "0.68.0"
+  }
+}
